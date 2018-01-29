@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/aws-lambda-loggly-bridge.iml" filepath="$PROJECT_DIR$/aws-lambda-loggly-bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-log-bridge.iml" filepath="$PROJECT_DIR$/cloud-log-bridge.iml" />
     </modules>
   </component>
 </project>

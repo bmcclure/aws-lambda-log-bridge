@@ -1,4 +1,4 @@
-package request_handler
+package lambda_handler
 
 import (
 	"fmt"
